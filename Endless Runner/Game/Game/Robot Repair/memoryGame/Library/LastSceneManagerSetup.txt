@@ -1,0 +1,4 @@
+sceneSetups:
+- path: D:/Programming World/Unity/Practice/13_12_16_RobotReparing/robotGaming/Assets/game.unity
+  isLoaded: 1
+  isActive: 1
